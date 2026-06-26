@@ -22,3 +22,27 @@
 <testimonials>
   <p>&copy; 2026 My Website</p>
 </testimonials>
+<section class="testimonials-section">
+    <h2>What People Say</h2>
+    <div class="testimonials-container">
+        
+        <!-- Quote 1 (2 Lines) -->
+        <blockquote class="testimonial-card">
+            <p class="quote">
+                "The team transformed our workflow.<br>
+                The attention to detail and communication was impressive"
+            </p>
+            <cite class="author">— Paris Reynolds, Designer</cite>
+        </blockquote>
+
+        <!-- Quote 2 (2 Lines) -->
+        <blockquote class="testimonial-card">
+            <p class="quote">
+                "The Git VSCode platform provided complete transitions.<br>
+                I had my code hosted and running in under five minutes."
+            </p>
+            <cite class="author">— Paris Reynolds, Developer</cite>
+        </blockquote>
+
+    </div>
+</section>
